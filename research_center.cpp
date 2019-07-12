@@ -1,3 +1,5 @@
+//////changes made by me
+
 #include<stdio.h>
 #include<iostream>
 int n, c, **rare, **area,**visited, ***dist;
